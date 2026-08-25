@@ -46,6 +46,8 @@
 
 > Explore the deployed application and interact with the password management interface.
 
+<img width="1918" height="986" alt="Screenshot 2026-08-25 230219" src="https://github.com/user-attachments/assets/71da1329-7cec-4d5b-985a-988da68dfa3d" />
+
 ---
 
 ## 📌 About The Project
@@ -59,6 +61,8 @@ The application provides an interface for adding, viewing, editing and deleting 
 A major focus of the project was learning how frontend components communicate with application state and how user actions can dynamically update the interface.
 
 ---
+<img width="1882" height="986" alt="Screenshot 2026-08-25 230255" src="https://github.com/user-attachments/assets/2323f3ce-37c4-4691-a0d9-ac9e3dc034a6" />
+
 
 ## 🟩 Project Highlights
 
@@ -488,6 +492,9 @@ Possible future improvements include:
 ---
 
 ## ⭐ Support
+
+<img width="1888" height="991" alt="Screenshot 2026-08-25 230238" src="https://github.com/user-attachments/assets/174d9209-02dc-4c26-b4ca-0e94ffcd4248" />
+
 
 If you found this project useful or interesting:
 
